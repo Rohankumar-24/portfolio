@@ -5,7 +5,7 @@
   
 }
 body {
-  @apply min-h-screen bg-gradient-to-br from-[#fdfcfb] via-[#e2d1c3] to-[#f8f3f1]  /* Warm Cream */;
+  @apply min-h-screen bg-gradient-to-br from-[#c9d6ff] via-[#e2e2e2] to-[#ffffff]  ;
 }
 
 
